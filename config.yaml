@@ -1,4 +1,4 @@
-baseURL: 'chocole.top'
+baseURL: 'https://chocole.top/'
 languageCode: en-us
 title: My New Hugo Site
 module:
