@@ -10,6 +10,7 @@ markup:
       unsafe: true
 
 Params:
+  env: production
   homeInfoParams:
     Title: Hi there wave
     Content: Can be Info, links, about...
