@@ -17,7 +17,7 @@ Params:
     # Content: "Github: @Sduby22"
   socialIcons:
     - name: "github"
-    - url: "https://github.com/Sduby22"
+      url: "https://github.com/Sduby22"
   ShowBreadCrumbs: true
   ShowReadingTime: true
   ShowPostNavLinks: true
