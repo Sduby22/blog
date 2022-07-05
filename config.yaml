@@ -1,6 +1,7 @@
 baseURL: 'https://chocole.top/'
+buildDrafts: true
 languageCode: en-us
-title: My New Hugo Site
+title: "Random Notes"
 module:
   imports:
     - path: github.com/adityatelange/hugo-PaperMod
@@ -12,8 +13,11 @@ markup:
 Params:
   env: production
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
+    Title: "Cole's Random Notes"
+    # Content: "Github: @Sduby22"
+  socialIcons:
+    - name: "github"
+    - url: "https://github.com/Sduby22"
   ShowBreadCrumbs: true
   ShowReadingTime: true
   ShowPostNavLinks: true
