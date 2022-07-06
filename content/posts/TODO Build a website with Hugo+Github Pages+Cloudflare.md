@@ -32,9 +32,7 @@ You can follow [this guide](https://gohugo.io/getting-started/quick-start/) to s
 
 Hugo uses `config.yoml` or `config.yaml` for config file. IMO I think `yaml` is more readable than `toml`, so I'd like to convert the auto-generated toml file to `config.yaml`. You can also do that with some random online converter found on Google.
 
-```text
-Because I use =yaml=, all the config examples in this posts is in yaml. If you want to use =toml=, don't just copy paste, do the convertion yourself.
-```
+Because I use `yaml`, all the config examples in this posts is in yaml. If you want to use `toml`, don't just copy paste, do the convertion yourself.
 
 
 ### Pick your Favorite Theme (Optional) {#pick-your-favorite-theme--optional}
