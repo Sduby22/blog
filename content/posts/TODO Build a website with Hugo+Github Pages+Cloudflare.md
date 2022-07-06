@@ -2,7 +2,7 @@
 title = "Build a website with Hugo & Github Pages & Cloudflare"
 author = ["Sduby"]
 date = 2022-07-06T17:09:00+08:00
-tags = ["hugo", "blog"]
+tags = ["hugo", "blog", "github-action"]
 draft = false
 summary = "Build a website with Hugo+Github Pages+Cloudflare"
 +++
