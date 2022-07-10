@@ -1,7 +1,9 @@
 +++
 title = "Partition Methods of Quicksort"
 author = ["Sduby"]
-draft = true
+date = 2022-07-11T04:42:00+08:00
+tags = ["algorithm", "sort"]
+draft = false
 summary = "Generally speaking, Quicksort can use two types of partition methods. The first of which partitions the array into 3 parts: =(<=pivot), (pivot), (>pivot)=. And the latter partitions the array into 2 parts. I will introduce two coresponding algorithms: Hoare's and Lomuto partition algorithm."
 +++
 
