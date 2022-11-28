@@ -4,9 +4,9 @@ date: 2022-11-29
 tags: [cargo, rust, mold, linker]
 ---
 
-Mold linker is a fast and memory-efficient linker. It is a drop-in replacement for GNU ld and lld. It is a good choice for Rust projects. (5x faster than GNU ld and 2x faster than lld)
-
 # Use Mold Linker in Rust
+
+Mold linker is a fast and memory-efficient linker. It is a drop-in replacement for GNU ld and lld. It is a good choice for Rust projects. (5x faster than GNU ld and 2x faster than lld)
 
 Add the following to your Cargo config at `YOUR_WORKSPACE/.cargo/config.toml:`
 
