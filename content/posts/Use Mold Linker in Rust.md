@@ -1,6 +1,5 @@
 ---
 title: Use Mold Linker in Rust
-date: 2022-11-29
 tags: [cargo, rust, mold, linker]
 ---
 
